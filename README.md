@@ -55,7 +55,7 @@ breathe [--iterations <number>] [--pattern <pattern>] [--help]
   breathe
   ```
 
-- Start a breathing exercise with 5 iterations:
+- Start a breathing exercise with five iterations:
 
   ```
   Copy code
@@ -71,7 +71,7 @@ breathe [--iterations <number>] [--pattern <pattern>] [--help]
   breathe --pattern 4-2-4
   ```
 
-- Start a breathing exercise with 3 iterations and the 4-2-4 pattern:
+- Start a breathing exercise with three iterations and the 4-2-4 pattern:
 
   ```
   Copy code
@@ -81,12 +81,8 @@ breathe [--iterations <number>] [--pattern <pattern>] [--help]
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/Yamilquery/breathe).
+Contributions are welcome! If you have any issues or suggestions for improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/Yamilquery/breathe).
 
 ## License
 
 This project is licensed under the MIT License.
-
-------
-
-Feel free to customize the content further based on your preferences and project details. Make sure to replace `Yamilquery` with your actual GitHub username in the README.md file and the installation instructions.
