@@ -6,7 +6,7 @@ class BrewFormula < Formula
   license "MIT"
 
   def install
-    bin.install "breath.sh" => "breathe"
+    bin.install "breathe.sh" => "breathe"
   end
 
   test do
