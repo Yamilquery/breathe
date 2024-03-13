@@ -2,7 +2,7 @@ class BrewFormula < Formula
   desc "Guide you through a breathing exercise with customizable iterations and patterns"
   homepage "https://github.com/Yamilquery/homebrew-breathe"
   url "https://github.com/Yamilquery/homebrew-breathe/archive/v1.0.0.tar.gz"
-  sha256 "1c05fb33985098de1b95350c94d3d3216d6600b18a407c28037abfed2a9a4968"
+  sha256 "a8cce4d704b722010566afe18a59bc5ab0a9e841da84cc20fd72aacf10a4bf46"
   license "MIT"
 
   def install
