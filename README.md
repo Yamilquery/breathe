@@ -24,7 +24,7 @@ To install Breathe using Homebrew, run the following commands:
 Copy code
 
 brew tap Yamilquery/breathe
-brew install breathe
+brew install yamilquery/breathe/brew_formula
 ```
 
 Replace `Yamilquery` with your GitHub username.
