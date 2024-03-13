@@ -1,4 +1,4 @@
-class Breathe < Formula
+class BrewFormula < Formula
   desc "Guide you through a breathing exercise with customizable iterations and patterns"
   homepage "https://github.com/Yamilquery/breathe"
   url "https://github.com/Yamilquery/breathe/archive/v1.0.0.tar.gz"
